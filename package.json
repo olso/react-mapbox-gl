@@ -1,5 +1,5 @@
 {
-  "name": "react-mapbox-gl",
+  "name": "react-mapbox-gl-with-ts-types",
   "version": "4.8.1",
   "description": "A React binding of mapbox-gl-js",
   "main": "lib/index.js",
